@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\integration-tests\target\debug\build\typenum-d95e4fbba31c1498\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\integration-tests\target\debug\build\typenum-d95e4fbba31c1498\out\op.rs

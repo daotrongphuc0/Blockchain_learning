@@ -1,0 +1,13 @@
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\sha2-6ea6112c944dda74.rmeta: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\sha2-6ea6112c944dda74.d: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs
+
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\lib.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\core_api.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\consts.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\soft.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha256\x86.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\soft.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\sha2-0.10.6\src\sha512\x86.rs:

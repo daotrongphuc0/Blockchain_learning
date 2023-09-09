@@ -1,0 +1,4 @@
+DEFINE_NEAR_METHOD(get_greeting)
+DEFINE_NEAR_METHOD(set_greating_payable)
+DEFINE_NEAR_METHOD(set_greating_private)
+DEFINE_NEAR_METHOD(set_greeting)

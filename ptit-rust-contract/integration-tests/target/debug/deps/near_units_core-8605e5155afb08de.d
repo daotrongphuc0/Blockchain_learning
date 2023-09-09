@@ -1,0 +1,11 @@
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\integration-tests\target\debug\deps\near_units_core-8605e5155afb08de.rmeta: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\integration-tests\target\debug\deps\libnear_units_core-8605e5155afb08de.rlib: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\integration-tests\target\debug\deps\near_units_core-8605e5155afb08de.d: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs:

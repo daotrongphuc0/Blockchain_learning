@@ -1,0 +1,29 @@
+npm build    --- build contract
+npm start    --- run contract
+near login   --- login vi testnet
+1-- near create-account <taikhoancon.baymax0.testnet> --masterAccount baymax0.testnet initialBalace 20   --- tao tk con va chuyen 20 near
+near deploy  ---  deploy len near blochain
+near dev-deploy -- deploy len testnet ->
+	near deploy --wasmFile contract/build/hello_near.wasm --accountId ac1.baymax0.testnet        --- deploy bnag tk ac1...
+near view ac1.baymax0.testnet get_greeting    --- goi ham view get_greeting(). view chi co the goi ham view. con call co the goij ca view va call
+near call ac1.baymax0.testnet get_greeting --accountId baymax0.testnet    --- goi ham call get_greeting() va id tk de tra phi gas
+near call ac1.baymax0.testnet set_greeting '{"message": "Hello DTP"}' --accountId baymax0.testnet    --- goi ham va tham so4
+*** luu y khi goi private func thi accountId phai la ac deploy
+	  near call ac1.baymax0.testnet set_greating_payable '{"message": "Hello Phuc"}' --accountId baymax0.testnet --deposit 1 
+
+============================================================================
+			CHO NFT
+Non-fungible token la tai san k the chia nho
+fungible token co the chia nho VD near, bitcoin
+
+npm run build:contract
+1--
+*xoa ac: near delete $XXX baymax0.testnet
+near send baymax0.testnet ac1.baymax0.testnet 20
+near deploy --wasmFile contract/build/contract.wasm --accountId	ac1.baymax0.testnet
+export bien: export XXX=ac1.baymax0.testnet
+*echo $XXX
+init contract: near call $XXX init '{"owner_id": "baymax0.testnet"}' --accountId $XXX
+near view $XXX nft_metadata
+
+mua nft: near call  $XXX offer '{"sale_id": "1"}' --accountId taikhoannhan.testnet --deposit 1

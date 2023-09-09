@@ -1,0 +1,11 @@
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\digest-7faf7ba077f0a1f5.rmeta: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\digest-7faf7ba077f0a1f5.d: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs
+
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\lib.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\ct_variable.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\rt_variable.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\wrapper.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\core_api\xof_reader.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\digest-0.10.5\src\digest.rs:

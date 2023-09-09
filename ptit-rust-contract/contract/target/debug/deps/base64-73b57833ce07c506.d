@@ -1,0 +1,12 @@
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\base64-73b57833ce07c506.rmeta: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\base64-73b57833ce07c506.d: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs
+
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\lib.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\chunked_encoder.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\display.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\tables.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\mod.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\write\encoder.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\encode.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\base64-0.11.0\src\decode.rs:

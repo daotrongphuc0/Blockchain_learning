@@ -1,0 +1,11 @@
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\ed25519_dalek-3e952e7104338e96.rmeta: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs
+
+\\wsl$\Ubuntu-22.04\home\phuc\DTP_main\ptit-rust-contract\contract\target\debug\deps\ed25519_dalek-3e952e7104338e96.d: C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs
+
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\lib.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\constants.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\keypair.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\errors.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\public.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\secret.rs:
+C:\Users\daotr\.cargo\registry\src\github.com-1ecc6299db9ec823\ed25519-dalek-1.0.1\src\signature.rs:
